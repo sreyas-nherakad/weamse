@@ -1,0 +1,2 @@
+hai hi there 
+this is the new file created using gedit command code
